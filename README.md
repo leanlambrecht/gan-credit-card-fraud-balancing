@@ -1,4 +1,4 @@
-# Redes generativas para balanceo de fraude crediticio
+# Redes generativas para balance de fraude crediticio
 
 El proyecto utiliza una **Generative Adversarial Network (GAN)** para generar transacciones sintéticas de la clase minoritaria y evaluar su efecto sobre modelos de detección de fraude.
 
